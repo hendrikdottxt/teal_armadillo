@@ -1,0 +1,18 @@
+---
+title: "stagepushcommit_test"
+format: html
+editor: visual
+---
+
+## dont read this
+
+or this
+
+```{r}
+
+denxer_char = list("denzer", "thabruh", "dokes", "la pasion", "moussaka", "lank frundy", "tringle killer", "joe rogan")
+
+
+
+
+```
