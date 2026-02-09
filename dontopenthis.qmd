@@ -10,7 +10,7 @@ or this
 
 ```{r}
 
-denxer_char = list("denzer", "thabruh", "dokes", "la pasion", "moussaka", "lank frundy", "tringle killer", "joe rogan")
+denxer_char = list("denzer", "thabruh", "dokes", "la pasion", "moussaka", "lank frundy", "tringle killer", "joe rogan", "dana white")
 
 
 
