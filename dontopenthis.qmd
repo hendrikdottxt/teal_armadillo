@@ -14,5 +14,5 @@ denxer_char = list("denzer", "thabruh", "dokes", "la pasion", "moussaka", "lank 
 
 housemd_char = list("abode", "will's son", "pursuit", "vex")
 
-
+LC_mobs = list("bracken", "nutcracker", "butler")
 ```
